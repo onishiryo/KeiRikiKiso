@@ -3,5 +3,9 @@
   - 丸目誤差テストcpp.ipynb 
 - Python code for Day-2
   - Day2説明用-行列演算.ipynb
-  - Day2説明用-逆行列.ipynb
+  - Day2説明用-直説法.ipynb
+  - Day2説明用-1Dポワソン.ipynb
 - Python code for Day-3
+  - Day3-2Dポワソン.ipynb
+  - Day3-定常反復法.ipynb
+  - Day3-最急降下法.ipynb
